@@ -1,4 +1,4 @@
-# poo-centra-2024# Aulas de Programação Orientada a Objetos
+# Aulas de Programação Orientada a Objetos
 Repositório Centralizador de Materiais de Aula e Projetos de Código Fonte
 
 
