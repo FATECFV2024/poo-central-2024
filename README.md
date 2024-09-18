@@ -15,13 +15,13 @@ Bem-vindo ao repositório de Aulas de Programação Orientada a Objetos! Este re
 
  - <b>Aula 03:</b> Introdução a Programação Orientada a Objetos e Utilizando uma IDE
    - [Material para Leitura](https://www.canva.com/design/DAFrb2sCURw/iK9Ym1NB-SrbPhqONlYZCQ/view?utm_content=DAFrb2sCURw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-   - [Atividade em Laboratório]()
+   - [Atividade em Laboratório](https://github.com/FATECFV2024/poo-central-2024/tree/main/Aula%2003%20-%20Ola%20Mundo)
 
  - <b>Aula 04 e 05:</b> Versionamento de Código: Introdução ao Git e GitHub
    - [Material para Leitura](https://www.canva.com/design/DAFsHiwdCjg/oiUGwQN0FlOEWFm1KFjQ9A/view?utm_content=DAFsHiwdCjg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
  - <b>Aula 06: Métodos de Acessos</b>
-     -[Material para Leitura](https://www.canva.com/design/DAFsxAhFaX8/YmINVSVouQNaTFoSbQPQhw/edit?utm_content=DAFsxAhFaX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+     - [Material para Leitura](https://www.canva.com/design/DAFsxAhFaX8/YmINVSVouQNaTFoSbQPQhw/edit?utm_content=DAFsxAhFaX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
      - [Atividade em Laboratório]()
       
  
