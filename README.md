@@ -33,10 +33,7 @@ Aqui está a estrutura das aulas e os links para os materiais correspondentes:
 - [Atividade 2](https://classroom.github.com/a/rnoPVYPa)
 - [Atividade 3](https://classroom.github.com/a/3YVg2wK-)
 - [Atividade 4](#)
-- [Atividade 5](#)
-- [Atividade 6](#)
-- [Atividade 7](#)
-- [Atividade 8](#)
+
 
 ## Como Contribuir 👥
 Se você deseja contribuir para este repositório, sinta-se à vontade para:
