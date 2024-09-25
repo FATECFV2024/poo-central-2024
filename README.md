@@ -8,22 +8,25 @@ Bem-vindo ao repositório de Aulas de Programação Orientada a Objetos! Este re
 
 ## Estrutura do Repositório 📁
  - <b>Aula 01:</b> Introdução ao Desenvolvimento POO (Time-line de tecnologias)
-     -   [Material para Leitura](https://www.canva.com/design/DAFqnKuOdvg/-TKdaWENASK6GOBzidlBdQ/view?utm_content=DAFqnKuOdvg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+     -   [Material para Leitura]([https://www.canva.com/design/DAFqnKuOdvg/-TKdaWENASK6GOBzidlBdQ/view?utm_content=DAFqnKuOdvg&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFqnKuOdvg/-TKdaWENASK6GOBzidlBdQ/view?utm_content=DAFqnKuOdvg&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 
  - <b>Aula 02:</b> Conceitos em Paradigma a Linguagem de Programação
-      -   [Material para Leitura](https://www.canva.com/design/DAFqtldNchk/i3FqRS9bW7HP6Lu8JgHvow/view?utm_content=DAFqtldNchk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+      -   [Material para Leitura]([https://www.canva.com/design/DAFqtldNchk/i3FqRS9bW7HP6Lu8JgHvow/view?utm_content=DAFqtldNchk&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFrb2sCURw/iK9Ym1NB-SrbPhqONlYZCQ/view?utm_content=DAFrb2sCURw&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 
  - <b>Aula 03:</b> Introdução a Programação Orientada a Objetos e Utilizando uma IDE
-   - [Material para Leitura](https://www.canva.com/design/DAFrb2sCURw/iK9Ym1NB-SrbPhqONlYZCQ/view?utm_content=DAFrb2sCURw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+   - [Material para Leitura]([https://www.canva.com/design/DAFrb2sCURw/iK9Ym1NB-SrbPhqONlYZCQ/view?utm_content=DAFrb2sCURw&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFrb2sCURw/iK9Ym1NB-SrbPhqONlYZCQ/view?utm_content=DAFrb2sCURw&utm_campaign=designshare&utm_medium=link&utm_source=editor))
    - [Atividade em Laboratório](https://github.com/FATECFV2024/poo-central-2024/tree/main/Aula%2003%20-%20Ola%20Mundo)
 
  - <b>Aula 04 e 05:</b> Versionamento de Código: Introdução ao Git e GitHub
-   - [Material para Leitura](https://www.canva.com/design/DAFsHiwdCjg/oiUGwQN0FlOEWFm1KFjQ9A/view?utm_content=DAFsHiwdCjg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+   - [Material para Leitura]([https://www.canva.com/design/DAFsHiwdCjg/oiUGwQN0FlOEWFm1KFjQ9A/view?utm_content=DAFsHiwdCjg&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFsHiwdCjg/oiUGwQN0FlOEWFm1KFjQ9A/view?utm_content=DAFsHiwdCjg&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 
- - <b>Aula 06: Métodos de Acessos</b>
-     - [Material para Leitura](https://www.canva.com/design/DAFsxAhFaX8/YmINVSVouQNaTFoSbQPQhw/edit?utm_content=DAFsxAhFaX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+ - <b>Aula 06: Encapsulamento e Métodos de Acesso</b>
+     - [Material para Leitura]([https://www.canva.com/design/DAFsxAhFaX8/YmINVSVouQNaTFoSbQPQhw/edit?utm_content=DAFsxAhFaX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFsr2Dl6zA/ACuec9SdKpn1LuG_tvmHXw/view?utm_content=DAFsr2Dl6zA&utm_campaign=designshare&utm_medium=link&utm_source=editor)) 
      - [Atividade em Laboratório]()
-      
+ 
+ - <b>Aula 07: Tipos de Dados, Operadores e  Conversão de Tipos</b>
+     - [Material para Leitura]([https://www.canva.com/design/DAFsxAhFaX8/YmINVSVouQNaTFoSbQPQhw/edit?utm_content=DAFsxAhFaX8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFsxAhFaX8/e9EKve7Slv-5IQY7p1-DSg/view?utm_content=DAFsxAhFaX8&utm_campaign=designshare&utm_medium=link&utm_source=editor)) 
+     - [Atividade em Laboratório]()     
  
 ## Atividades
 - [Atividade 1]
