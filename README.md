@@ -8,10 +8,10 @@ Bem-vindo ao repositório de Aulas de Programação Orientada a Objetos! Este re
 
 ## Estrutura do Repositório 📁
  - <b>Aula 01:</b> Introdução ao Desenvolvimento POO (Time-line de tecnologias)
-     -   [Material para Leitura]([https://www.canva.com/design/DAFqnKuOdvg/-TKdaWENASK6GOBzidlBdQ/view?utm_content=DAFqnKuOdvg&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFqnKuOdvg/-TKdaWENASK6GOBzidlBdQ/view?utm_content=DAFqnKuOdvg&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+     -   [Material para Leitura](https://www.canva.com/design/DAFqnKuOdvg/-TKdaWENASK6GOBzidlBdQ/view?utm_content=DAFqnKuOdvg&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFqnKuOdvg/-TKdaWENASK6GOBzidlBdQ/view?utm_content=DAFqnKuOdvg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
  - <b>Aula 02:</b> Conceitos em Paradigma a Linguagem de Programação
-      -   [Material para Leitura]([https://www.canva.com/design/DAFqtldNchk/i3FqRS9bW7HP6Lu8JgHvow/view?utm_content=DAFqtldNchk&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFrb2sCURw/iK9Ym1NB-SrbPhqONlYZCQ/view?utm_content=DAFrb2sCURw&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+      -   [Material para Leitura]([https://www.canva.com/design/DAFqtldNchk/i3FqRS9bW7HP6Lu8JgHvow/view?utm_content=DAFqtldNchk&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFrb2sCURw/iK9Ym1NB-SrbPhqONlYZCQ/view?utm_content=DAFrb2sCURw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
  - <b>Aula 03:</b> Introdução a Programação Orientada a Objetos e Utilizando uma IDE
    - [Material para Leitura]([https://www.canva.com/design/DAFrb2sCURw/iK9Ym1NB-SrbPhqONlYZCQ/view?utm_content=DAFrb2sCURw&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFrb2sCURw/iK9Ym1NB-SrbPhqONlYZCQ/view?utm_content=DAFrb2sCURw&utm_campaign=designshare&utm_medium=link&utm_source=editor))
