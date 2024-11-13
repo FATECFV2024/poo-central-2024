@@ -73,29 +73,9 @@ public class aluno {
 		this.endereco = endereco;
 	}
 
-	public Collection<contato> getContato() {
-		return contato;
-	}
+	
 
-	public void setContato(Collection<contato> contato) {
-		this.contato = contato;
-	}
 
-	public Collection<chamada> getChamada() {
-		return chamada;
-	}
-
-	public void setChamada(Collection<chamada> chamada) {
-		this.chamada = chamada;
-	}
-
-	public Collection<notas> getNotas() {
-		return notas;
-	}
-
-	public void setNotas(Collection<notas> notas) {
-		this.notas = notas;
-	}
 
 	
 }
